@@ -89,7 +89,7 @@ Probability-based classification into Low, Medium, High risk
 
 📌 How to Run
 # Clone the repository
-git clone https://github.com/yourusername/breast-cancer-metastasis-prediction.git
+[git clone https://github.com/yourusername/breast-cancer-metastasis-prediction.git](https://github.com/bhuvan8341-collab/Explainable-Machine-Learning-for-Breast-Cancer-.git)
 
 # Open Jupyter Notebook
 jupyter notebook
